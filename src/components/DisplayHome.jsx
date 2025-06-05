@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "./Navbar";
 import { albumsData, songsData } from "../assets/assets";
-import AlbumItem from "./Albumitem";
+import AlbumItem from "./AlbumItem";
 import SongItem from "./SongItem";
 import { motion } from "framer-motion";
 
